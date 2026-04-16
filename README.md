@@ -1,5 +1,5 @@
 # Apex-Legends-recoil-helper-Logitech-only-
-Apex Legends recoil helper. It is only ment for Logitech keyboard and mouse.
+
 Hi, 
 
 For secure reason you need to have export the script from G-Hub.
