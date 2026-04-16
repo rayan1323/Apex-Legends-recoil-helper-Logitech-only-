@@ -19,7 +19,3 @@ Change it if you have give a different name.
 Also change if needed the local to (C:) or (D:) whatever you have do.
 
 Save and Close. 
-
-Watch the video below.
-
-https://www.youtube.com/watch?v=zoRv2g9nyO4
