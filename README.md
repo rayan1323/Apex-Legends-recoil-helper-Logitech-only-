@@ -6,7 +6,7 @@ For secure reason you need to have export the script from G-Hub.
 
 Copy and Paste the script to C:/ or D:/ etc. 
 
-Give to the file a different name like "world"
+Give to the file (ApexLegends.lua) a different name like "world"
 
 Go to G-Hub or LGS and add the code line below
 
